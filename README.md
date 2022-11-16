@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashrafhassan987
 - 👀 I’m interested in flutter 
 - 🌱 I’m currently learning Dart language
-- 💞️ I’m looking to collaborate on with Google
+- 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me What'sAPP
 
 <!---
